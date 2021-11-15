@@ -1,4 +1,0 @@
-#!bin/bash
-echo "Welcome to the integration of ML and DevOps: MLOps"
-git push
-curl --user "admin:*****" http://192.168.225.31:8080/job/Item1/build?token=*****
